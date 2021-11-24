@@ -24,6 +24,7 @@ I have opened the source code to show the way I code and efficiency. I have full
 ## Dependencies
 
 [Download Java](https://java.com/en/download/manual.jsp)
+
 [Download Maven](https://maven.apache.org/download.cgi?Preferred=ftp://ftp.osuosl.org/pub/apache/)
 
 ## Frequently Asked Questions
