@@ -1,0 +1,14 @@
+[
+    {
+        "modid": "poisponge",
+        "name": "Poi",
+        "version": "1.0",
+        "description": "A plugin created by space for the LunarCube Network. Read the readme.md for more information.",
+        "url": "https://spce.moe",
+        "authorList": [
+            "space"
+        ],
+        "requiredMods": [],
+        "dependencies": []
+    }
+]

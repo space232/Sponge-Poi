@@ -1,0 +1,20 @@
+-- Poi Commands List
+
+poi.reload - /poi reload (Reloads the plugin & configuration)
+poi.clearchat.client - /poi clearchat (Clears CLIENTSIDE chat for own players.)
+poi.clearchat.server - /poi clearchats (Clears SERVERSIDE chat for ALL players.)
+poi.discord - /discord (Displays Discord embed in chat for users to join.)
+poi.support - /support (Displays support embed in chat for users should they need help.)
+poi.forums - /forums (Displays forums embed in chat for users to check out.)
+poi.store - /store (Displays store embed in chat for users to check out.)
+
+-- PoiGuard (Mod Blacklist)
+poiguard.command.add - /poiguard add (Add mod to blacklist)
+poiguard.command.remove - /poiguard remove (Remove mod from blacklist)
+poiguard.command.list - /poiguard list (List all mods on the blacklist)
+poiguard.command.manage - /poiguard (Gives all permissions add,remove,list)
+
+poiguard.command.reload - /poiguard reload (Reload plugin and configuration)
+
+poiguard.command.modinfo.player - /mods player (List the mods the player is currently using)
+poiguard.command.modinfo.mod - /mods lookup (List the players that have used that mod previously)
